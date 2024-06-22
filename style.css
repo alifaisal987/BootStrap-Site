@@ -1,3 +1,10 @@
 .bmw-logo{
     width: 50px;
 }
+body{
+  
+    flex-wrap: wrap;
+}
+.text-white{
+  color: white;
+}
